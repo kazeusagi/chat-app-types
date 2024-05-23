@@ -1,6 +1,6 @@
 {
   "name": "@kazeusagi/chat-app-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "チャットアプリ練習用 共通で利用する型定義",
   "author": "T.Ito",
   "license": "MIT",  
