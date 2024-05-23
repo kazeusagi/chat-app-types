@@ -1,0 +1,14 @@
+{
+  "name": "Chat App Types",
+  "dockerComposeFile": "compose.yml",
+  "service": "types-app",
+  "workspaceFolder": "/home/user/app",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "oderwat.indent-rainbow",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  }
+}
