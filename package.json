@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "@kazeusagi/chat-app-types",
   "version": "0.0.1",
   "description": "チャットアプリ練習用 共通で利用する型定義",
   "author": "T.Ito",
@@ -12,5 +12,10 @@
   "types": "index.d.ts",
   "files": [
     "index.d.ts"
-  ]
+  ],
+  "scripts": {
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major"
+  }
 }
