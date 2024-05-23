@@ -1,6 +1,9 @@
 {
   "name": "@kazeusagi/chat-app-types",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "description": "チャットアプリ練習用 共通で利用する型定義",
   "author": "T.Ito",
   "license": "MIT",  
