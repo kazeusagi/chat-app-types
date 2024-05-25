@@ -5,5 +5,5 @@ export type AskProps = {
 };
 
 export type AskReturn = {
-  messsage: string;
+  message: string;
 };
