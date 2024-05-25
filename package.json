@@ -8,8 +8,8 @@
     "type": "git",
     "url": "git+https://github.com/kazeusagi/chat-app-types.git"
   },
-  "main": "index.d.ts",
-  "types": "index.d.ts",
+  "main": "src/index.d.ts",
+  "types": "src/index.d.ts",
   "files": [
     "src"
   ],
